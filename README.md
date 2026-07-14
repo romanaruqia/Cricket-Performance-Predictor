@@ -11,6 +11,6 @@ To view the interactive visual scouting dashboard, open the terminal/command pro
 ### 1. Install required visualization libraries
 pip install streamlit plotly
 ### 2. Navigate to your project directory
-cd path/to/cricket_project
+cd path/to/T20 Analytics
 ### 3. Launch the web application
 python -m streamlit run app.py
