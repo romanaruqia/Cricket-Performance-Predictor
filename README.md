@@ -7,8 +7,7 @@ Early Dismissal Precision: 73% (Highly reliable risk-detection engine)
 Match-Winner Recall: 59% (Anticipates rare high-impact peaks)
 
 ## How to Run the Frontend Dashboard Locally
-To view the interactive visual scouting dashboard, open your terminal/command prompt and run:
-bash
+To view the interactive visual scouting dashboard, open the terminal/command prompt and:
 ### 1. Install required visualization libraries
 pip install streamlit plotly
 ### 2. Navigate to your project directory
