@@ -1,6 +1,7 @@
 # Cricket-Performance-Predictor
 An end-to-end machine learning and computer vision-ready pipeline that processes raw sports telemetry to predict T20 batting performance categories: Early Dismissal (<15 runs), Stable Anchor (15-40 runs), and Match Winner (>40 runs).
-Performance & Features - 
+
+## Performance & Features - 
 Overall Accuracy: 42.68% (High-performance baseline for sports analytics)
 Early Dismissal Precision: 73% (Highly reliable risk-detection engine)
 Match-Winner Recall: 59% (Anticipates rare high-impact peaks)
@@ -8,9 +9,9 @@ Match-Winner Recall: 59% (Anticipates rare high-impact peaks)
 ## How to Run the Frontend Dashboard Locally
 To view the interactive visual scouting dashboard, open your terminal/command prompt and run:
 bash
-# 1. Install required visualization libraries
+### 1. Install required visualization libraries
 pip install streamlit plotly
-# 2. Navigate to your project directory
+### 2. Navigate to your project directory
 cd path/to/cricket_project
-# 3. Launch the web application
+### 3. Launch the web application
 python -m streamlit run app.py
