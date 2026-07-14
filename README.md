@@ -2,8 +2,8 @@
 An end-to-end machine learning and computer vision-ready pipeline that processes raw sports telemetry to predict T20 batting performance categories: Early Dismissal (<15 runs), Stable Anchor (15-40 runs), and Match Winner (>40 runs).
 
 ## Performance & Features - 
-Overall Accuracy: 42.68% (High-performance baseline for sports analytics)
-Early Dismissal Precision: 73% (Highly reliable risk-detection engine)
+Overall Accuracy: 42.68% (High-performance baseline for sports analytics), 
+Early Dismissal Precision: 73% (Highly reliable risk-detection engine), 
 Match-Winner Recall: 59% (Anticipates rare high-impact peaks)
 
 ## How to Run the Frontend Dashboard Locally
